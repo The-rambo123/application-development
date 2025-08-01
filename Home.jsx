@@ -1,3 +1,4 @@
-export default HomePage{
+
+export default Home{
 
 }
